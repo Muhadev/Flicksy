@@ -21,7 +21,7 @@ export default function Home() {
   return (
     <main className="min-h-screen flex flex-col">
       <Hero
-        title="Welcome to Cineverse"
+        title="Welcome to Flicksy"
         subtitle="Discover and explore your favorite movies and TV shows in one place. Immerse yourself in endless entertainment."
         actions={[
           {

@@ -17,18 +17,18 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Cineverse",
+  title: "Flicksy",
   description: "Discover and explore your favorite movies and TV shows in one place",
   openGraph: {
-    title: "Cineverse - Your Ultimate Movie Discovery Platform",
+    title: "Flicksy - Your Ultimate Movie Discovery Platform",
     description: "Discover and explore your favorite movies and TV shows in one place. Get personalized recommendations, track your watchlist, and more.",
-    url: "https://cineverse-rho.vercel.app",
+    url: "https://Flicksy.vercel.app",
     images: [
       {
         url: "/banner.png",
         width: 1200,
         height: 630,
-        alt: "Cineverse - Movie Discovery Platform",
+        alt: "Flicksy - Movie Discovery Platform",
       },
     ],
     type: "website",

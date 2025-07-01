@@ -29,7 +29,7 @@ export default function About() {
       >
         <div className="bg-card border rounded-lg shadow-2xl p-8 space-y-8">
           <div className="text-center space-y-4">
-            <h1 className="text-4xl font-bold tracking-tight">About Cineverse</h1>
+            <h1 className="text-4xl font-bold tracking-tight">About Flicksy</h1>
             <p className="text-muted-foreground text-lg">
               A casual project
             </p>
@@ -39,7 +39,7 @@ export default function About() {
             <div className="space-y-4">
               <h2 className="text-2xl font-semibold">Project Goals</h2>
               <p className="text-muted-foreground">
-                Cineverse helped me in learning :
+               Flicksy helped me in learning :
               </p>
               <div className="flex flex-wrap gap-2 mt-2">
                 {[
@@ -63,7 +63,7 @@ export default function About() {
               <h2 className="text-2xl font-semibold">Connect With Me</h2>
               <div className="flex space-x-4">
                 <Link 
-                  href="https://github.com/abhinavkale-dev" 
+                  href="https://github.com/Muhadev" 
                   target="_blank"
                   className="flex items-center space-x-2 text-muted-foreground hover:text-primary transition-colors"
                 >
@@ -71,7 +71,7 @@ export default function About() {
                   <span>GitHub</span>
                 </Link>
                 <Link 
-                  href="https://x.com/Abhinavstwt" 
+                  href="https://x.com/Muha_dev" 
                   target="_blank"
                   className="flex items-center space-x-2 text-muted-foreground hover:text-primary transition-colors"
                 >
