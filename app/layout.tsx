@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Flicksy - Your Ultimate Movie Discovery Platform",
     description: "Discover and explore your favorite movies and TV shows in one place. Get personalized recommendations, track your watchlist, and more.",
-    url: "https://Flicksy.vercel.app",
+    url: "https://flicksy-v1.vercel.app/",
     images: [
       {
         url: "/banner.png",
